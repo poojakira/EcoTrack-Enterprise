@@ -5,13 +5,13 @@ A full-stack ML application that predicts product lifecycle carbon footprints us
 
 ## Environment Setup
 
-### Step 1 — Extract the project folder EcoTrack-Enterprise
+### Step 1 - Extract the project folder EcoTrack-Enterprise
 
-### Step 2: create the venv Environment
+### Step 2 -  create the venv Environment
 
 Note prefered - python 3.11 version
 
-### Step 3 — Place your files
+### Step 3 - Place your files
 
 Copy or move all project files into their correct locations:
 
@@ -46,7 +46,7 @@ eco-track-enterprise/
     └── data/
 ```
 
-### Step 4 — Verify your structure
+### Step 4 - Verify your structure
 
 ```bash
 # From inside eco-track-enterprise/
