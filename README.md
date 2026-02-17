@@ -2,7 +2,7 @@
 
 A full-stack ML application that predicts product lifecycle carbon footprints using a FastAPI backend and a Streamlit dashboard frontend, all orchestrated with Docker Compose.
 
-# Note: Data was extracted from https://www.kaggle.com/datasets/zara2099/product-lifecycle-carbon-footprint-data, after extraction renmaed it as dpp_data.csv.
+# Note: Data was extracted from https://www.kaggle.com/datasets/zara2099/product-lifecycle-carbon-footprint-data, after extraction of thie data set  renamed it as dpp_data.csv.
 
 ## Environment Setup
 
