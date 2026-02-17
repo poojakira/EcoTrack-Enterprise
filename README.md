@@ -298,3 +298,9 @@ statsmodels
 **Operational Resilience** — Both services are configured with `restart: always`, ensuring automatic recovery from crashes or host reboots without manual intervention — critical for production deployments.
 
 **Extensibility** — The modular ML layer (`train.py`, `predict.py`, `preprocessing.py`, `anomaly.py`) is cleanly separated from the API layer, making it straightforward to swap in new models, add explainability endpoints (SHAP via `/explain`), or integrate drift monitoring (via `/drift`) as the project matures.
+
+
+
+
+![dashboard_main](https://github.com/user-attachments/assets/18b5aeb5-1695-41cd-b8e9-504b998397c1)
+
