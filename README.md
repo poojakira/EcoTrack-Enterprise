@@ -5,24 +5,11 @@ A full-stack ML application that predicts product lifecycle carbon footprints us
 
 ## Environment Setup
 
-All files for this project live under a root folder called `eco-track-enterprise`. Start by creating that folder and placing all files inside it exactly as shown in the structure below.
+### Step 1 — Extract the project folder EcoTrack-Enterprise
 
-### Step 1 — Create the project folder
+### Step 2: create the venv Environment
 
-```bash
-mkdir eco-track-enterprise
-cd eco-track-enterprise
-```
-
-### Step 2 — Recreate the folder structure
-
-```bash
-# Create all required directories
-mkdir -p backend/app/api
-mkdir -p backend/app/ml/artifacts
-mkdir -p backend/data
-mkdir -p frontend/data
-```
+Note prefred - python 3.11 version
 
 ### Step 3 — Place your files
 
