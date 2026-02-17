@@ -9,7 +9,7 @@ A full-stack ML application that predicts product lifecycle carbon footprints us
 
 ### Step 2: create the venv Environment
 
-Note prefred - python 3.11 version
+Note prefered - python 3.11 version
 
 ### Step 3 — Place your files
 
