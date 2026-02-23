@@ -1,5 +1,18 @@
-🌍 EcoTrack-EnterpriseHigh-Fidelity Carbon Lifecycle Analytics & Security ShieldEcoTrack-Enterprise is an industrial-grade ML microservice architecture designed to quantify product carbon footprints. It leverages FastAPI’s asynchronous execution, Random Forest regression for predictive precision, and an Isolation Forest layer for real-time anomaly detection.Data Source: Extracted from Kaggle: Product Lifecycle Carbon Footprint and processed as dpp_data.csv.🚀 Validated PerformancePredictive Precision: Training benchmarks consistently yield an $R^2$ score of 0.9952, explaining 99.5% of carbon variance.Operational Scalability: Successfully validated with 1,000 concurrent requests achieving a P90 latency of 281ms.Zero-Trust Security: Real-time anomaly detection flags out-of-distribution inputs in <5ms.
----
+🌍 EcoTrack-Enterprise
+
+**High-Fidelity Carbon Lifecycle Analytics & Security Shield**
+
+EcoTrack-Enterprise is an industrial-grade ML microservice architecture designed to quantify product carbon footprints. It leverages FastAPI’s asynchronous execution, Random Forest regression for predictive precision, and an Isolation Forest layer for real-time anomaly detection.
+
+**Data Source: Extracted from Kaggle: Product Lifecycle Carbon Footprint and processed as dpp_data.csv.**
+
+
+🚀 Validated Performance
+Predictive Precision: Training benchmarks consistently yield an $R^2$ score of 0.9952, explaining 99.5% of carbon variance.
+
+Operational Scalability: Successfully validated with 1,000 concurrent requests achieving a P90 latency of 281ms.Zero-Trust
+
+Security: Real-time anomaly detection flags out-of-distribution inputs in <5ms.
 
 ## 🔧 Project Layout
 
