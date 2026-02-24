@@ -1,5 +1,7 @@
 🌍 EcoTrack-Enterprise
 
+
+
 **High-Fidelity Carbon Lifecycle Analytics & Security Shield**
 
 EcoTrack-Enterprise is an industrial-grade ML microservice architecture designed to quantify product carbon footprints. It leverages FastAPI’s asynchronous execution, Random Forest regression for predictive precision, and an Isolation Forest layer for real-time anomaly detection.
@@ -20,6 +22,8 @@ Zero-Trust Security: Real-time anomaly detection flags out-of-distribution input
 
 
 ## 🔧 Project Layout
+
+**Extract the zip file**
 
 The repository has a multi‑service structure with separate backend and
 frontend components, plus shared data at the top level:
