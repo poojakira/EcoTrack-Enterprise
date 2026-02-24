@@ -11,9 +11,13 @@ EcoTrack-Enterprise is an industrial-grade ML microservice architecture designed
 
 Predictive Precision: Training benchmarks consistently yield an $R^2$ score of 0.9952, explaining 99.5% of carbon variance.
 
-Operational Scalability: Successfully validated with 1,000 concurrent requests achieving a P90 latency of 281ms.Zero-Trust
+Operational Scalability: Successfully validated with 1,000 concurrent requests achieving a P90 latency of 281ms.
 
-Security: Real-time anomaly detection flags out-of-distribution inputs in <5ms.
+Zero-Trust Security: Real-time anomaly detection flags out-of-distribution inputs in <5ms.
+
+<img width="501" height="137" alt="image" src="https://github.com/user-attachments/assets/98b3ab6b-d121-4f5b-9c6e-87de8961d8e6" />
+
+
 
 ## 🔧 Project Layout
 
