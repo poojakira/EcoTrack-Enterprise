@@ -7,7 +7,8 @@ EcoTrack-Enterprise is an industrial-grade ML microservice architecture designed
 **Data Source: Extracted from Kaggle: Product Lifecycle Carbon Footprint and processed as dpp_data.csv.**
 
 
-🚀 Validated Performance
+## 🚀 Validated Performance
+
 Predictive Precision: Training benchmarks consistently yield an $R^2$ score of 0.9952, explaining 99.5% of carbon variance.
 
 Operational Scalability: Successfully validated with 1,000 concurrent requests achieving a P90 latency of 281ms.Zero-Trust
